@@ -36,7 +36,7 @@ A comprehensive 25-part video series teaching chip design from basics to complet
 | Category | Topics | 
 |----------|--------| 
 | **Digital Design** | Verilog, RTL-to-GDSII, FSMs, Processors|
-| **Analog Design** | Op-Amps, PLLs, Comparators, ADCs, DACs | |
+| **Analog Design** | Op-Amps, PLLs, Comparators, ADCs, DACs | 
 | **Mixed-Signal** | Sensors, Digital Readout, Bandgap References |
 | **Tools** | OpenLane, Yosys, OpenROAD, Magic, Ngspice, KLayout |
 
