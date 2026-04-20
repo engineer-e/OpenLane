@@ -327,7 +327,7 @@ This correctly implements the AND function.
 [⬆ Back to Top](#and-gate---verilog-to-gdsii-complete-flow)
 
 </div>
-```
+
 
 ---
 
