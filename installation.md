@@ -8,7 +8,8 @@ Here is the proper GitHub `README.md` documentation for your OpenLane Installati
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![OpenLane](https://img.shields.io/badge/OpenLane-1.0.2-green)](https://github.com/The-OpenROAD-Project/OpenLane)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey)](https://github.com/The-OpenROAD-Project/OpenLane)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/playlist?list=PLkvtzcMGVO88SVBMTKp0brqD1bdHWzBUP&si=eb-BRW7-K4NInlUO)
+
 
 ---
 
