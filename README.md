@@ -231,7 +231,6 @@ magic -T sky130A.tech DESIGN_NAME.mag
 
 **Made with ❤️ for the open-source chip design community**
 
-[⬆ Back to Top](#-learn-chip-design-with-openlane---complete-rtl-to-gdsii-series)
 
 </div>
 
