@@ -7,6 +7,9 @@
 [![Sky130](https://img.shields.io/badge/Sky130-PDK-orange)](https://github.com/google/skywater-pdk)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/playlist?list=PLkvtzcMGVO88SVBMTKp0brqD1bdHWzBUP&si=eb-BRW7-K4NInlUO)
 
+
+
+[![Watch the video](https://img.youtube.com/vi/sl_H78-g_28/maxresdefault.jpg)](https://youtu.be/sl_H78-g_28?si=TaNqOJywJwtvKziP)
 ---
 
 ## 📌 Table of Contents
