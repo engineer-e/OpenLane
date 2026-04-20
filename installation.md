@@ -11,6 +11,8 @@ Here is the proper GitHub `README.md` documentation for your OpenLane Installati
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/playlist?list=PLkvtzcMGVO88SVBMTKp0brqD1bdHWzBUP&si=eb-BRW7-K4NInlUO)
 
 
+[![Watch the video](https://img.youtube.com/vi/Fy56DG-fwLQ/maxresdefault.jpg)](https://youtu.be/Fy56DG-fwLQ?si=oIlNAt8_CV05PKcu)
+
 ---
 
 ## 📌 Table of Contents
