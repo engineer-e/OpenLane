@@ -78,7 +78,6 @@ OpenLane/
 │                   ├── manufacturability.rpt
 │                   └── metrics.csv
 │
-├── OpenLane/
 ├── docker/
 ├── scripts/
 ├── Makefile
