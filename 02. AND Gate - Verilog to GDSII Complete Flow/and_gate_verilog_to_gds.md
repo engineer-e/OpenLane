@@ -39,67 +39,104 @@
 - ✅ Analyze gate-level netlist implementation
 
 ---
-## Project Structure 
 
-Here is the **Project Structure** for Video 2 only:
-
----
-
-## 📁 Project Structure
+## 📁 Project Structure (Inside OpenLane)
 
 ```
-02_and_gate/
+OpenLane/
 │
-├── src/
-│   └── and_gate.v
+├── designs/
+│   └── and_gate/
+│       │
+│       ├── src/
+│       │   └── and_gate.v
+│       │
+│       ├── config.json
+│       │
+│       └── runs/
+│           └── RUN_2026.04.19_14.09.21/
+│               ├── logs/
+│               │   ├── synthesis/
+│               │   ├── floorplan/
+│               │   ├── placement/
+│               │   ├── cts/
+│               │   ├── routing/
+│               │   └── signoff/
+│               ├── results/
+│               │   └── final/
+│               │       ├── gds/
+│               │       │   └── and_gate.gds
+│               │       ├── def/
+│               │       │   └── and_gate.def
+│               │       ├── verilog/
+│               │       │   └── and_gate.v
+│               │       ├── mag/
+│               │       │   └── and_gate.mag
+│               │       └── lef/
+│               │           └── and_gate.lef
+│               └── reports/
+│                   ├── manufacturability.rpt
+│                   └── metrics.csv
 │
-├── config.json
-│
-├── and_gate_verilog_to_gds.md
-│
-└── runs/
-    └── RUN_2026.04.19_14.09.21/
-        ├── logs/
-        │   ├── synthesis/
-        │   ├── floorplan/
-        │   ├── placement/
-        │   ├── cts/
-        │   ├── routing/
-        │   └── signoff/
-        ├── results/
-        │   └── final/
-        │       ├── gds/
-        │       │   └── and_gate.gds
-        │       ├── def/
-        │       │   └── and_gate.def
-        │       ├── verilog/
-        │       │   └── and_gate.v
-        │       ├── mag/
-        │       │   └── and_gate.mag
-        │       └── lef/
-        │           └── and_gate.lef
-        └── reports/
-            ├── manufacturability.rpt
-            └── metrics.csv
+├── OpenLane/
+├── docker/
+├── scripts/
+├── Makefile
+└── README.md
 ```
 
 ---
 
 ## 📂 File Descriptions
 
-| File/Folder | Purpose |
-|-------------|---------|
-| `src/and_gate.v` | Verilog source code |
-| `config.json` | OpenLane configuration |
-| `and_gate_verilog_to_gds.md` | Documentation |
-| `runs/` | All flow outputs |
-| `logs/` | Execution logs per stage |
-| `results/final/gds/` | GDSII tapeout file |
-| `results/final/def/` | Placement & routing data |
-| `results/final/verilog/` | Gate-level netlist |
-| `reports/` | Metrics & manufacturability |
+| Path | Purpose |
+|------|---------|
+| `designs/and_gate/src/and_gate.v` | Verilog source code |
+| `designs/and_gate/config.json` | OpenLane configuration |
+| `designs/and_gate/runs/` | All flow outputs |
+| `designs/and_gate/runs/*/logs/` | Execution logs per stage |
+| `designs/and_gate/runs/*/results/final/gds/` | GDSII tapeout file |
+| `designs/and_gate/runs/*/results/final/def/` | Placement & routing data |
+| `designs/and_gate/runs/*/results/final/verilog/` | Gate-level netlist |
+| `designs/and_gate/runs/*/reports/` | Metrics & manufacturability |
 
 ---
+
+## 🔧 Navigation Commands (Inside OpenLane)
+
+```bash
+# Enter OpenLane
+cd ~/OpenLane
+make mount
+
+# Navigate to design
+cd designs/and_gate
+
+# View structure
+ls -la
+```
+
+---
+
+## ✅ Corrected Outline for Video 2
+
+| Section | Topic | Location |
+|---------|-------|----------|
+| 1 | Introduction | - |
+| 2 | Enter OpenLane | `cd ~/OpenLane && make mount` |
+| 3 | Create design folder | `designs/and_gate/` |
+| 4 | Create src folder | `designs/and_gate/src/` |
+| 5 | Write Verilog | `designs/and_gate/src/and_gate.v` |
+| 6 | Create config.json | `designs/and_gate/config.json` |
+| 7 | Run the flow | `./flow.tcl -design and_gate` |
+| 8 | View results | `designs/and_gate/runs/*/results/final/` |
+
+---
+
+Thank you for catching that critical correction! The design work is indeed inside `OpenLane/designs/`, not at the root level.
+
+---
+
 ## 📁 Design Files
 
 ### Verilog Module (src/and_gate.v)
