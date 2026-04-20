@@ -1,4 +1,4 @@
-# OpenLane
+# OpenLane 
 Support Digital Electronic
 
 Here is the complete GitHub `README.md` document with emojis, proper formatting, and a professional documentation style.
@@ -11,7 +11,7 @@ Here is the complete GitHub `README.md` document with emojis, proper formatting,
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![OpenLane](https://img.shields.io/badge/OpenLane-1.0.2-green)](https://github.com/The-OpenROAD-Project/OpenLane)
 [![Sky130](https://img.shields.io/badge/Sky130-PDK-orange)](https://github.com/google/skywater-pdk)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/playlist?list=PLkvtzcMGVO88SVBMTKp0brqD1bdHWzBUP&si=eb-BRW7-K4NInlUO)
 
 A comprehensive 25-part video series teaching chip design from basics to complete SoC using open-source EDA tools.
 
