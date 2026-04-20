@@ -1,5 +1,5 @@
 # OpenLane 
-Support Digital Electronic
+Support Digital Electronic 🔧 [Technical Terms](technical_term.md)
 
 Here is the complete GitHub `README.md` document with emojis, proper formatting, and a professional documentation style.
 
