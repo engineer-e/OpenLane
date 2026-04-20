@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![OpenLane](https://img.shields.io/badge/OpenLane-1.0.2-green)](https://github.com/The-OpenROAD-Project/OpenLane)
 [![Sky130](https://img.shields.io/badge/Sky130-PDK-orange)](https://github.com/google/skywater-pdk)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/playlist?list=PLkvtzcMGVO88SVBMTKp0brqD1bdHWzBUP&si=eb-BRW7-K4NInlUO)
 
 ---
 
