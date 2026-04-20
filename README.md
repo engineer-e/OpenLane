@@ -66,7 +66,7 @@ A comprehensive 25-part video series teaching chip design from basics to complet
 | # | Title | Topic | Video | 
 |---|-------|-------| --- |
 | 1 | [OpenLane Installation on Windows](installation.md) | WSL2 + Docker setup |  [![Watch the video](https://img.youtube.com/vi/Fy56DG-fwLQ/default.jpg)](https://youtu.be/Fy56DG-fwLQ?si=oIlNAt8_CV05PKcu) |
-| 2 | [AND Gate - Verilog to GDSII Complete Flow | RTL-to-GDSII](02. AND Gate - Verilog to GDSII Complete Flow/and_gate_verilog_to_gds.md) |  [![Watch the video](https://img.youtube.com/vi/sl_H78-g_28/default.jpg)](https://youtu.be/sl_H78-g_28?si=pQ6cVVFppCt5wWPW) |
+| 2 | [AND Gate - Verilog to GDSII Complete Flow - RTL-to-GDSII]() |  [![Watch the video](https://img.youtube.com/vi/sl_H78-g_28/default.jpg)](https://youtu.be/sl_H78-g_28?si=pQ6cVVFppCt5wWPW) |
 | 3 | AND Gate at Transistor Level | CMOS + Ngspice |
 | 4 | Simulating Verilog with Icarus & GTKWave | Digital simulation |
 | 5 | Basic Logic Gates | OR, XOR, NOT, NAND, NOR |
