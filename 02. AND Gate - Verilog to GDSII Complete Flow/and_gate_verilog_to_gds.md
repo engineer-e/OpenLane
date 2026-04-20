@@ -1,8 +1,4 @@
-I have checked your code. The Verilog module and configuration file are **correct and error-free**. The module name matches, the file path is correct, and the configuration settings are valid for a combinational AND gate.
 
-Here is the proper documentation for Video 2.
-
----
 
 # AND Gate - Verilog to GDSII Complete Flow
 
