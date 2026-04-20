@@ -39,7 +39,67 @@
 - ✅ Analyze gate-level netlist implementation
 
 ---
+## Project Structure 
 
+Here is the **Project Structure** for Video 2 only:
+
+---
+
+## 📁 Project Structure
+
+```
+02_and_gate/
+│
+├── src/
+│   └── and_gate.v
+│
+├── config.json
+│
+├── and_gate_verilog_to_gds.md
+│
+└── runs/
+    └── RUN_2026.04.19_14.09.21/
+        ├── logs/
+        │   ├── synthesis/
+        │   ├── floorplan/
+        │   ├── placement/
+        │   ├── cts/
+        │   ├── routing/
+        │   └── signoff/
+        ├── results/
+        │   └── final/
+        │       ├── gds/
+        │       │   └── and_gate.gds
+        │       ├── def/
+        │       │   └── and_gate.def
+        │       ├── verilog/
+        │       │   └── and_gate.v
+        │       ├── mag/
+        │       │   └── and_gate.mag
+        │       └── lef/
+        │           └── and_gate.lef
+        └── reports/
+            ├── manufacturability.rpt
+            └── metrics.csv
+```
+
+---
+
+## 📂 File Descriptions
+
+| File/Folder | Purpose |
+|-------------|---------|
+| `src/and_gate.v` | Verilog source code |
+| `config.json` | OpenLane configuration |
+| `and_gate_verilog_to_gds.md` | Documentation |
+| `runs/` | All flow outputs |
+| `logs/` | Execution logs per stage |
+| `results/final/gds/` | GDSII tapeout file |
+| `results/final/def/` | Placement & routing data |
+| `results/final/verilog/` | Gate-level netlist |
+| `reports/` | Metrics & manufacturability |
+
+---
 ## 📁 Design Files
 
 ### Verilog Module (src/and_gate.v)
